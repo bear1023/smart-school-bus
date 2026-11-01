@@ -1,0 +1,3 @@
+esp8266-com0-USART0 T:A2 R:A3
+DHT11-A0
+舵机C4,5,8,9
